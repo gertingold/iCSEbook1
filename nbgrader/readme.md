@@ -5,7 +5,7 @@ Here we explain how to install nbgrader.
 
 First of all we need a up-to-date python distribution. If you already have a
 running python distribution, you can skip this step. We suggest to use
-`Anaconda <https://www.continuum.io/downloads>`_. Instructions on how to
+[Anaconda](https://www.continuum.io/downloads). Instructions on how to
 install Anaconda are available at the download page.
 
 Now, use pip to install nbgrader. The output should look like:
